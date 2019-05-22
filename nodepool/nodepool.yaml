@@ -1,4 +1,3 @@
-# Uncomment to enable openstack provider
 #---
 #diskimages:
 #  - name: dib-centos-7
